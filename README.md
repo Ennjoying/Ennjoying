@@ -3,9 +3,9 @@
 
 I'm a dedicated student with a strong affinity for IT. My strengths are my analytical mind and eye for detail.
 
-My current grade average is 1.57, which equates to a 3.5 US-GPA and focus on 3D Visualisation and Video Game courses in my studies at HTW. Automation through DevOps and Machine learning is also part of my interest.
+My current grade average is 1.57, which equates to a 3.5 US-GPA with a focus on 3D Visualization and Video Game courses in my studies at HTW. Automation through DevOps and Machine learning is also part of my interest.
 
-On a more personal note, I'm someone who loves to get absorbed into different worlds. Naturally, I have always gravitated towards video games since they are, in my eyes, the best medium to do so. Getting lost in a good book also has its charms. I've made it a habit to analyze game mechanics in the meantime. Wondering about the design of a game and what the motivation behind it was. How the mechanics work, why they were created in that way and how they could be improved if I felt like they could use some adjustments.
+On a more personal note, I'm someone who loves to explore fictional worlds. Naturally, I have always gravitated towards video games since they are, in my eyes, the best medium to do so. I've made it a habit to analyze game mechanics in the meantime. Wondering about the design of a game and what the motivation behind it was. How the mechanics work, why they were created in that way and how they could be improved if I felt like they could use some adjustments.
 
 Unity
 ---
@@ -59,7 +59,7 @@ German, English
 
 ---
 
-#### If i sparked your curiousity, please feel free to <a href="mailto:enno.kleinfeldt@student.htw-berlin.de?subject=Hello from GitHub">`📨 send me a message via E-Mail,`</a> <a href="https://www.linkedin.com/in/Enno-Kleinfeldt"> `or on Linkedin!` </a> <img alt="LinkedIn" width="20px" style="padding-right:50px;" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+#### If i have piqued your curiousity, please feel free to <a href="mailto:enno.kleinfeldt@student.htw-berlin.de?subject=Hello from GitHub">`📨 Send me a message via mail,`</a> <a href="https://www.linkedin.com/in/Enno-Kleinfeldt"> `or on Linkedin!` </a> <img alt="LinkedIn" width="20px" style="padding-right:50px;" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 
 
 
