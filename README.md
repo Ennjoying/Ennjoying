@@ -54,7 +54,7 @@ Skills
 
 Languages
 ---
-German, English
+German native, English C1
 
 
 ---
